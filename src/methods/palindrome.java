@@ -23,6 +23,6 @@ public class palindrome {
         if(ReverseString.str(str).equals(str)){
             return true;
         }
-        return false;
+        return false;       
     }
 }
